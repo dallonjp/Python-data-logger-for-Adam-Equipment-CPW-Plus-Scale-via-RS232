@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  1 12:20:35 2022
 
-@author: dallo
+@author: dallon
 """
 import serial, csv, time
 from datetime import datetime
